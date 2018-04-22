@@ -1,0 +1,28 @@
+If you have time, please subscribe to my youtube channel 'Vortex Of Rainbows', i would appreciate it, i play games and show off some features in this mod!
+( https://www.youtube.com/channel/UCCROKE6vzjko3ZdtuMsq0pQ )
+
+This mod is a content mod! It adds a new biome and a chance for mega ore veins to spawn in your world, along with more items! Take a look at the changelog if you want to see what is in this mod!
+
+Update 0.13
+-Renamed mod to Secrets of the Shadows
+-More new randomly placed item drops, sold items, and others
+-There are now relics that work as weapons instead of accessories, they are very late game and called "Holy Relics", there is now two.
+-Antimaterial Antilion now sprays LOTS more sand in expert mode, along with obsidian and hellstone
+-Two new boss fights, one after skeletron that is required to get bat armor. Both are inspired by Antibirth Mod for Binding of Isaac Rebirth
+-Made super or veins unable to spawn on the surface
+-New Planetarium items, also inspired by the Antibirth Mod for Binding of Isaac Rebirth, they can be found in the clouds near the ocean, only one can be obtained per world, and they can be obtained pre-hardmode in expert mode, but in normal mode, they have to be obtained after wall of flesh and all the mech bosses. 
+-New song to fit the Planetarium, it is the Planetarium song "from a jar to to the sky" by mudeth from (again) the Antibirth Mod for Binding of Isaac Rebirth
+-Planetarium mobs will spawn anywhere in the sky, and will spawn their orbs and decorations on death
+-Bug fixes and balancing
+-Only one planetarium accessory can be obtained per world, there are currently only three, but soon to be MANY more
+-All previous update logs are now even more REDACTED (https://pastebin.com/FWR9B95e)
+
+
+
+
+
+
+
+
+
+
